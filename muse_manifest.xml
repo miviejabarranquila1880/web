@@ -1,0 +1,195 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="miviejabarranquilla1880.ct.ws" resolutions="1x" timestamp="1748027422834">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-p_g_-maestra.css" crc="4199270740" ref="calles:historia:antes-y-ahora:index"/>
+    <file name="calles.css" crc="4254721807" ref="calles"/>
+    <file name="historia.css" crc="114723471" ref="historia"/>
+    <file name="antes-y-ahora.css" crc="3978186967" ref="antes-y-ahora"/>
+    <file name="index.css" crc="462872171" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>historia:phone>calles:phone>antes-y-ahora:tablet>index:tablet>historia:tablet>calles:tablet>antes-y-ahora:index:historia:calles:antes-y-ahora"/>
+    <file name="museutils.js" crc="3939489907" ref="phone>index:phone>historia:phone>calles:phone>antes-y-ahora:tablet>index:tablet>historia:tablet>calles:tablet>antes-y-ahora:index:historia:calles:antes-y-ahora"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>historia:phone>calles:phone>antes-y-ahora:tablet>index:tablet>historia:tablet>calles:tablet>antes-y-ahora:index:historia:calles:antes-y-ahora"/>
+    <file name="museconfig.js" crc="3936894949" ref="phone>index:phone>historia:phone>calles:phone>antes-y-ahora:tablet>index:tablet>historia:tablet>calles:tablet>antes-y-ahora:index:historia:calles:antes-y-ahora"/>
+    <file name="jquery.watch.js" crc="522499760" ref="phone>index:phone>historia:phone>calles:phone>antes-y-ahora:tablet>index:tablet>historia:tablet>calles:tablet>antes-y-ahora:index:historia:calles:antes-y-ahora"/>
+    <file name="webpro.js" crc="3856315280" ref="phone>index:phone>antes-y-ahora:tablet>index:tablet>antes-y-ahora:index:antes-y-ahora"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="phone>index:phone>antes-y-ahora:tablet>index:tablet>antes-y-ahora:index:antes-y-ahora"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="phone>index:phone>antes-y-ahora:tablet>index:tablet>antes-y-ahora:index:antes-y-ahora"/>
+    <file name="touchswipe.js" crc="3888935200" ref="phone>index:phone>antes-y-ahora:tablet>index:tablet>antes-y-ahora:index:antes-y-ahora"/>
+    <file name="require.js" crc="4177726516" ref="phone>index:phone>historia:phone>calles:phone>antes-y-ahora:tablet>index:tablet>historia:tablet>calles:tablet>antes-y-ahora:index:historia:calles:antes-y-ahora"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="tablet>index"/>
+  </folder>
+  <folder name="images">
+    <file name="mi-vieja-barranquilla-inicio-favicon.ico" crc="4141682173" ref="phone>index"/>
+    <file name="whatsapp_image_2025-05-03_at_30501_pm__1_-removebg-preview34x33.png" crc="3947520518" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lienzo 11381x305.jpg" crc="282070438" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3885-4.png" crc="305611008" ref="phone>index"/>
+    <file name="whatsapp_image_2025-05-03_at_30501_pm__1_-removebg-preview.png" crc="3797388342" seo="true" ref="phone>index:phone>antes-y-ahora:tablet>index:tablet>antes-y-ahora:index:antes-y-ahora">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="antes-y-ahora" alt=""/>
+      <caption webpage="antes-y-ahora" alt=""/>
+      <caption webpage="antes-y-ahora" alt=""/>
+    </file>
+    <file name="qqqqq.jpg" crc="522418383" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cb_62skxiamhcrg322x209.jpg" crc="3801936441" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="aa19dc15c44d1373f11efa0866827d05190x210.jpg" crc="4291926465" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="barranquilla-portada218x313.jpg" crc="295972497" seo="true" ref="phone>historia">
+      <caption webpage="historia" alt=""/>
+    </file>
+    <file name="u3983-4.png" crc="158328997" ref="phone>historia"/>
+    <file name="ahhhhh380x223.jpg" crc="3878144214" seo="true" ref="phone>calles">
+      <caption webpage="calles" alt=""/>
+    </file>
+    <file name="image-5164x124.jpg" crc="304098158" seo="true" ref="phone>calles">
+      <caption webpage="calles" alt=""/>
+    </file>
+    <file name="cb_62skxiamhcrg191x124.jpg" crc="515840224" seo="true" ref="phone>calles">
+      <caption webpage="calles" alt=""/>
+    </file>
+    <file name="vista-superior-de-viejos-periodicos-franceses608x405.jpg" crc="475908188" seo="true" ref="phone>antes-y-ahora">
+      <caption webpage="antes-y-ahora" alt=""/>
+    </file>
+    <file name="centro actu.jpg" crc="4118773985" seo="true" ref="phone>antes-y-ahora:tablet>antes-y-ahora:antes-y-ahora">
+      <caption webpage="antes-y-ahora" alt=""/>
+      <caption webpage="antes-y-ahora" alt=""/>
+      <caption webpage="antes-y-ahora" alt=""/>
+    </file>
+    <file name="whatsapp image 2025-05-03 at 14656 pm.jpg" crc="3920249582" seo="true" ref="phone>antes-y-ahora:tablet>antes-y-ahora:antes-y-ahora">
+      <caption webpage="antes-y-ahora" alt=""/>
+      <caption webpage="antes-y-ahora" alt=""/>
+      <caption webpage="antes-y-ahora" alt=""/>
+    </file>
+    <file name="u4092-4.png" crc="345596778" ref="phone>antes-y-ahora"/>
+    <file name="u4091-4.png" crc="3871524641" ref="phone>antes-y-ahora"/>
+    <file name="actual arfenosa.jpg" crc="3758613615" seo="true" ref="phone>antes-y-ahora:tablet>antes-y-ahora:antes-y-ahora">
+      <caption webpage="antes-y-ahora" alt=""/>
+      <caption webpage="antes-y-ahora" alt=""/>
+      <caption webpage="antes-y-ahora" alt=""/>
+    </file>
+    <file name="iglesia la arenoisa.jpg" crc="3830540521" seo="true" ref="phone>antes-y-ahora:tablet>antes-y-ahora:antes-y-ahora">
+      <caption webpage="antes-y-ahora" alt=""/>
+      <caption webpage="antes-y-ahora" alt=""/>
+      <caption webpage="antes-y-ahora" alt=""/>
+    </file>
+    <file name="captura de pantalla 2025-05-10 011331260x167.jpg" crc="3875906415" seo="true" ref="phone>antes-y-ahora">
+      <caption webpage="antes-y-ahora" alt=""/>
+    </file>
+    <file name="captura de pantalla 2025-05-10 011356260x173.jpg" crc="4045016557" seo="true" ref="phone>antes-y-ahora">
+      <caption webpage="antes-y-ahora" alt=""/>
+    </file>
+    <file name="whatsapp_image_2025-05-03_at_30501_pm__1_-removebg-preview2.png" crc="44989733" seo="true" ref="tablet>index:tablet>historia:tablet>calles:tablet>antes-y-ahora:index:historia:calles:antes-y-ahora">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="historia" alt=""/>
+      <caption webpage="historia" alt=""/>
+      <caption webpage="calles" alt=""/>
+      <caption webpage="calles" alt=""/>
+      <caption webpage="antes-y-ahora" alt=""/>
+      <caption webpage="antes-y-ahora" alt=""/>
+    </file>
+    <file name="lienzo 11768x615.jpg" crc="106447878" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3199-4.png" crc="3817236000" ref="tablet>index"/>
+    <file name="cb_62skxiamhcrg479x311.jpg" crc="3953765547" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="aa19dc15c44d1373f11efa0866827d05-crop-u3190.jpg" crc="104639197" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="barranquilla-portada297x427.jpg" crc="3953348045" seo="true" ref="tablet>historia">
+      <caption webpage="historia" alt=""/>
+    </file>
+    <file name="u3385-4.png" crc="127604383" ref="tablet>historia"/>
+    <file name="ahhhhh.jpg" crc="170993408" seo="true" ref="tablet>calles:calles">
+      <caption webpage="calles" alt=""/>
+      <caption webpage="calles" alt=""/>
+    </file>
+    <file name="image-5.jpg" crc="265008706" seo="true" ref="tablet>calles:calles">
+      <caption webpage="calles" alt=""/>
+      <caption webpage="calles" alt=""/>
+    </file>
+    <file name="cb_62skxiamhcrg368x239.jpg" crc="4005081711" seo="true" ref="tablet>calles">
+      <caption webpage="calles" alt=""/>
+    </file>
+    <file name="vista-superior-de-viejos-periodicos-franceses.jpg" crc="344942708" seo="true" ref="tablet>antes-y-ahora:antes-y-ahora">
+      <caption webpage="antes-y-ahora" alt=""/>
+      <caption webpage="antes-y-ahora" alt=""/>
+    </file>
+    <file name="u3493-4.png" crc="4067491974" ref="tablet>antes-y-ahora"/>
+    <file name="u3494-4.png" crc="4228513125" ref="tablet>antes-y-ahora"/>
+    <file name="captura de pantalla 2025-05-10 011331.jpg" crc="306058016" seo="true" ref="tablet>antes-y-ahora:antes-y-ahora">
+      <caption webpage="antes-y-ahora" alt=""/>
+      <caption webpage="antes-y-ahora" alt=""/>
+    </file>
+    <file name="captura de pantalla 2025-05-10 011356.jpg" crc="81172549" seo="true" ref="tablet>antes-y-ahora:antes-y-ahora">
+      <caption webpage="antes-y-ahora" alt=""/>
+      <caption webpage="antes-y-ahora" alt=""/>
+    </file>
+    <file name="lienzo 11.jpg" crc="123414815" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u266-4.png" crc="3819934487" ref="index"/>
+    <file name="cb_62skxiamhcrg.jpg" crc="425176622" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="aa19dc15c44d1373f11efa0866827d05-crop-u613.jpg" crc="4070588608" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="barranquilla-portada.jpg" crc="3904022035" seo="true" ref="historia">
+      <caption webpage="historia" alt=""/>
+    </file>
+    <file name="u2747-4.png" crc="4174154940" ref="historia"/>
+    <file name="cb_62skxiamhcrg524x340.jpg" crc="449454050" seo="true" ref="calles">
+      <caption webpage="calles" alt=""/>
+    </file>
+    <file name="u2822-4.png" crc="130893933" ref="antes-y-ahora"/>
+    <file name="u2823-4.png" crc="3918064307" ref="antes-y-ahora"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-p_g_-maestra.css" crc="245623272" ref="tablet>index:tablet>antes-y-ahora:tablet>calles:tablet>historia"/>
+      <file name="index.css" crc="3928464245" ref="tablet>index"/>
+      <file name="antes-y-ahora.css" crc="507468508" ref="tablet>antes-y-ahora"/>
+      <file name="calles.css" crc="167604682" ref="tablet>calles"/>
+      <file name="historia.css" crc="294438090" ref="tablet>historia"/>
+    </folder>
+    <file name="index.html" crc="40038824" seo="true" mt="1748027105816" redirect="true"/>
+    <file name="historia.html" crc="4273665639" seo="true" mt="1748025824512" redirect="true"/>
+    <file name="calles.html" crc="4157387332" seo="true" mt="1748025836607" redirect="true"/>
+    <file name="antes-y-ahora.html" crc="3796193308" seo="true" mt="1748025620608" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-p_g_-maestra.css" crc="3946906483" ref="phone>calles:phone>antes-y-ahora:phone>index:phone>historia"/>
+      <file name="calles.css" crc="302317691" ref="phone>calles"/>
+      <file name="antes-y-ahora.css" crc="369576580" ref="phone>antes-y-ahora"/>
+      <file name="index.css" crc="485742172" ref="phone>index"/>
+      <file name="historia.css" crc="3800677805" ref="phone>historia"/>
+    </folder>
+    <file name="index.html" crc="73191991" seo="true" mt="1748027207143" redirect="true"/>
+    <file name="historia.html" crc="17125257" seo="true" mt="1748025737265" redirect="true"/>
+    <file name="calles.html" crc="88655631" seo="true" mt="1748025737265" redirect="true"/>
+    <file name="antes-y-ahora.html" crc="4043604800" seo="true" mt="1748025737265" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="199688654" seo="true" mt="1748022721253" redirect="true"/>
+  <file name="historia.html" crc="309635062" seo="true" mt="1748022721254" redirect="true"/>
+  <file name="calles.html" crc="3873893697" seo="true" mt="1748022721254" redirect="true"/>
+  <file name="antes-y-ahora.html" crc="26271513" seo="true" mt="1748022721254" redirect="true"/>
+</manifest>
